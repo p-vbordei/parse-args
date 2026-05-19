@@ -2,6 +2,10 @@
 
 [![ci](https://github.com/p-vbordei/parse-args/actions/workflows/ci.yml/badge.svg)](https://github.com/p-vbordei/parse-args/actions/workflows/ci.yml)
 
+[![npm](https://img.shields.io/npm/v/%40p-vbordei%2Fparse-args.svg)](https://www.npmjs.com/package/@p-vbordei/parse-args)
+[![downloads](https://img.shields.io/npm/dm/%40p-vbordei%2Fparse-args.svg)](https://www.npmjs.com/package/@p-vbordei/parse-args)
+[![bundle](https://img.shields.io/bundlejs/size/%40p-vbordei%2Fparse-args)](https://bundlejs.com/?q=%40p-vbordei%2Fparse-args)
+
 A tiny, zero-dependency argv parser. Long and short flags, `--no-foo` negation, combined short flags (`-abc`), aliases, typed flags (boolean/string/array). No subcommand framework — for that, plug this into your own CLI.
 
 ```ts
