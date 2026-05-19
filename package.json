@@ -1,6 +1,6 @@
 {
   "name": "@p-vbordei/parse-args",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Tiny argv parser. Long/short flags, --no-foo negation, --foo=bar, combined short flags, aliases, typed (boolean/string/array). Zero dependencies.",
   "keywords": [
     "argv",
