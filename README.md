@@ -1,5 +1,7 @@
 # parse-args
 
+[![ci](https://github.com/p-vbordei/parse-args/actions/workflows/ci.yml/badge.svg)](https://github.com/p-vbordei/parse-args/actions/workflows/ci.yml)
+
 A tiny, zero-dependency argv parser. Long and short flags, `--no-foo` negation, combined short flags (`-abc`), aliases, typed flags (boolean/string/array). No subcommand framework — for that, plug this into your own CLI.
 
 ```ts
